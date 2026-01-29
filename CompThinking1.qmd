@@ -1,7 +1,8 @@
 ---
 title: "ComputationalThinking1"
 author: "Ward, A., Miller, P."
-format: html
+format: 
+  pdf: default
 editor: visual
 ---
 
